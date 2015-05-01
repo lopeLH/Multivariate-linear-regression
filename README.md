@@ -1,7 +1,7 @@
 # GradientDescent
 Multivariate linear regression with gradient descent
 
-<img src="https://github.com/lopeLH/GradientDescent/blob/master/GradientDescent/githubImages/test.png"  width=350 height=250 />
+<img src="https://github.com/lopeLH/GradientDescent/blob/master/GradientDescent/githubImages/test.png"  width=350 height=450 />
 
 
 this is a Java implementation of the Gradient descent algorithm, applied to Multivariate linear regresion.
