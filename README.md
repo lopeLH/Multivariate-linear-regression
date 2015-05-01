@@ -9,7 +9,7 @@ is provided but we generate more by exponentiation of the one provided: x^2, x^3
 
 The implementation is based on the following update rules, explained by prof. Andrew Ng at the Stanford-Machine Learning course in Coursera:
 
-<img src="https://github.com/lopeLH/GradientDescent/blob/master/GradientDescent/githubImages/alg.PNG"  width=200 height=100 />
+<img src="https://github.com/lopeLH/GradientDescent/blob/master/GradientDescent/githubImages/alg.PNG"  width=300 height=150 />
 
 In this example you click on the graph to add new points and then use the "fit" button to execute gradient descent
 and fit a polynomial expression to the data provided.
